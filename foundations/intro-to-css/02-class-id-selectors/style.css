@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd-numero{
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.cool{
+    font-size: 24px;
+}
+
+#even-numero-1{
+    color: blue;
+    font-size: 36px;
+}
+
+#even-numero-2{
+    background-color: lightgreen;
+    font-weight: 700;
+    font-size: 24px;
+}
